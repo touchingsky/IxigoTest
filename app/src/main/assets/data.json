@@ -1,0 +1,229 @@
+{
+    "appendix": {
+        "airlines": {
+            "SG": "Spicejet",
+            "AI": "Air India",
+            "G8": "Go Air",
+            "9W": "Jet Airways",
+            "6E": "Indigo"
+        },
+        "airports": {
+            "DEL": "New Delhi",
+            "BOM": "Mumbai"
+        },
+        "providers": {
+            "1": "MakeMyTrip",
+            "2": "Cleartrip",
+            "3": "Yatra",
+            "4": "Musafir"
+        }
+    },
+    "flights": [{
+        "originCode": "DEL",
+        "destinationCode": "BOM",
+        "departureTime": 1396614600000,
+        "arrivalTime": 1396625400000,
+        "fares": [{
+            "providerId": 1,
+            "fare": 11500
+        }, {
+            "providerId": 2,
+            "fare": 10500
+        }],
+        "airlineCode": "G8",
+        "class": "Business"
+    }, {
+        "originCode": "DEL",
+        "destinationCode": "BOM",
+        "departureTime": 1396616400000,
+        "arrivalTime": 1396623600000,
+        "fares": [{
+            "providerId": 1,
+            "fare": 14400
+        }, {
+            "providerId": 3,
+            "fare": 14000
+        }],
+        "airlineCode": "AI",
+        "class": "Business"
+    }, {
+        "originCode": "DEL",
+        "destinationCode": "BOM",
+        "departureTime": 1396618200000,
+        "arrivalTime": 1396629000000,
+        "fares": [{
+            "providerId": 2,
+            "fare": 12300
+        }],
+        "airlineCode": "9W",
+        "class": "Business"
+    }, {
+        "originCode": "DEL",
+        "destinationCode": "BOM",
+        "departureTime": 1396620000000,
+        "arrivalTime": 1396627200000,
+        "fares": [{
+            "providerId": 2,
+            "fare": 15200
+        }, {
+            "providerId": 3,
+            "fare": 15000
+        }],
+        "airlineCode": "SG",
+        "class": "Business"
+    }, {
+        "originCode": "DEL",
+        "destinationCode": "BOM",
+        "departureTime": 1396621800000,
+        "arrivalTime": 1396632600000,
+        "fares": [{
+            "providerId": 1,
+            "fare": 16000
+        }, {
+            "providerId": 4,
+            "fare": 16700
+        }],
+        "airlineCode": "6E",
+        "class": "Business"
+    }, {
+        "originCode": "DEL",
+        "destinationCode": "BOM",
+        "departureTime": 1396596600000,
+        "arrivalTime": 1396607400000,
+        "fares": [{
+            "providerId": 1,
+            "fare": 5500
+        }, {
+            "providerId": 2,
+            "fare": 5600
+        }],
+        "airlineCode": "G8",
+        "class": "Economy"
+    }, {
+        "originCode": "DEL",
+        "destinationCode": "BOM",
+        "departureTime": 1396598400000,
+        "arrivalTime": 1396605600000,
+        "fares": [{
+            "providerId": 1,
+            "fare": 4400
+        }, {
+            "providerId": 2,
+            "fare": 4400
+        }, {
+            "providerId": 3,
+            "fare": 4500
+        }, {
+            "providerId": 4,
+            "fare": 4600
+        }],
+        "airlineCode": "AI",
+        "class": "Economy"
+    }, {
+        "originCode": "DEL",
+        "destinationCode": "BOM",
+        "departureTime": 1396600200000,
+        "arrivalTime": 1396611000000,
+        "fares": [{
+            "providerId": 1,
+            "fare": 4600
+        }, {
+            "providerId": 4,
+            "fare": 4700
+        }],
+        "airlineCode": "9W",
+        "class": "Economy"
+    }, {
+        "originCode": "DEL",
+        "destinationCode": "BOM",
+        "departureTime": 1396602000000,
+        "arrivalTime": 1396609200000,
+        "fares": [{
+            "providerId": 3,
+            "fare": 7800
+        }, {
+            "providerId": 4,
+            "fare": 7700
+        }],
+        "airlineCode": "SG",
+        "class": "Economy"
+    }, {
+        "originCode": "DEL",
+        "destinationCode": "BOM",
+        "departureTime": 1396603800000,
+        "arrivalTime": 1396614600000,
+        "fares": [{
+            "providerId": 2,
+            "fare": 8600
+        }, {
+            "providerId": 3,
+            "fare": 8700
+        }],
+        "airlineCode": "6E",
+        "class": "Economy"
+    }, {
+        "originCode": "DEL",
+        "destinationCode": "BOM",
+        "departureTime": 1396605600000,
+        "arrivalTime": 1396612800000,
+        "fares": [{
+            "providerId": 2,
+            "fare": 5000
+        }],
+        "airlineCode": "G8",
+        "class": "Economy"
+    }, {
+        "originCode": "DEL",
+        "destinationCode": "BOM",
+        "departureTime": 1396607400000,
+        "arrivalTime": 1396618200000,
+        "fares": [{
+            "providerId": 2,
+            "fare": 9800
+        }, {
+            "providerId": 3,
+            "fare": 10000
+        }],
+        "airlineCode": "AI",
+        "class": "Economy"
+    }, {
+        "originCode": "DEL",
+        "destinationCode": "BOM",
+        "departureTime": 1396609200000,
+        "arrivalTime": 1396616400000,
+        "fares": [{
+            "providerId": 1,
+            "fare": 4100
+        }, {
+            "providerId": 2,
+            "fare": 4200
+        }],
+        "airlineCode": "9W",
+        "class": "Economy"
+    }, {
+        "originCode": "DEL",
+        "destinationCode": "BOM",
+        "departureTime": 1396611000000,
+        "arrivalTime": 1396621800000,
+        "fares": [{
+            "providerId": 4,
+            "fare": 4600
+        }],
+        "airlineCode": "SG",
+        "class": "Economy"
+    }, {
+        "originCode": "DEL",
+        "destinationCode": "BOM",
+        "departureTime": 1396612800000,
+        "arrivalTime": 1396620000000,
+        "fares": [{
+            "providerId": 1,
+            "fare": 5700
+        }, {
+            "providerId": 3,
+            "fare": 5500
+        }],
+        "airlineCode": "6E",
+        "class": "Economy"
+    }]
+}

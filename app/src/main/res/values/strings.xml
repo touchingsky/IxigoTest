@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">IxigoTest</string>
+    <string name="price">Price</string>
+    <string name="departure">Departure</string>
+    <string name="arrival">Arrival</string>
+    <string name="inr">\u20B9 %1$s</string>
+    <string name="please_wait">Please Wait</string>
+</resources>
